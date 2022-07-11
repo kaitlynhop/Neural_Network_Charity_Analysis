@@ -24,8 +24,7 @@ The purpose of this project was to create a Neural Network model that predicted 
    - Removed Features: Name, EIN, Status
 ### Compiling, Training, and Evaluating the Model
  - How many neurons, layers, and activation functions did you select for your neural network model, and why?
-  - Initially, 2 hidden layers with 80 neurons in the first layer and 30 neurons in the second layer with ReLu activation functions in both hidden layers and sigmoid function in the output layer. 
-  - 
+    - Initially, 2 hidden layers with 80 neurons in the first layer and 30 neurons in the second layer with ReLu activation functions in both hidden layers and sigmoid function in the output layer. 
  - Were you able to achieve the target model performance?
    - No
    - Accuracy: 73.0%
